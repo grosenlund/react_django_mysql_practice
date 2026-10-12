@@ -3,3 +3,4 @@
 ### Install React, React-Table, and Axios
 ### Install MySQL
 ### Built in VS Code
+### Uses XAMPP
