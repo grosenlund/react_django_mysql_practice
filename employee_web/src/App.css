@@ -1,0 +1,105 @@
+.empdiv{
+  text-align: left;
+  margin: 0;
+  width: 100%;
+  padding: 20px;
+}
+h3{
+  color: blueviolet;
+}
+.addeditpanel{
+  border: 1px solid;
+  width: 588px;
+  height: 60px;
+  background-color: aqua;
+}
+.inputser{
+  width: 211px;
+  height: 25px;
+  border: 1px solid;
+  border-radius: 5px;
+  margin-top: 25px;
+  background-color: antiquewhite;
+}
+.addeditpndiv{
+  margin-left: 5px;
+  display: inline-block;
+}
+.addeditpndivinput{
+  border: 1px solid;
+  border-radius: 5px;
+  width: 140px;
+  height: 25px;
+  background-color: antiquewhite;
+}
+.addButton{
+  border: 1px solid;
+  border-radius: 5px;
+  width: 57px;
+  font-size: 11px;
+  line-height: 15px;
+  margin-left: 5px;
+  background-color: rgb(155, 209, 102);
+  color: blue;
+}
+.cancelButton{
+  border: 1px solid;
+  border-radius: 5px;
+  width: 57px;
+  font-size: 11px;
+  line-height: 15px;
+  margin-left: 5px;
+  background-color: rgb(219, 117, 117);
+  color: blueviolet;
+}
+.emptable{
+  margin-top: 10px;
+  width: 588px;
+  height: fit-content;
+  border: 1px solid;
+  border-collapse: collapse;
+  text-align: center;
+}
+th{
+  border: 1px solid;
+  font-size: 15px;
+  line-height: 18px;
+  background-color: rgb(149, 172, 235);
+}
+tr:nth-child(even){
+  background-color: rgb(250, 145, 107);
+}
+.editBtn{
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 10px;
+  line-height: 12px;
+  width: 50px;
+  background-color: rgb(151, 194, 109);
+  color: blue;
+}
+.deleteBtn{
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 10px;
+  line-height: 12px;
+  width: 50px;
+  background-color: rgb(243, 100, 184);
+  color: blue;
+}
+.pagediv{
+  margin-top: 5px;
+
+}
+.pagedivbtn{
+  border: 1px solid;
+  margin-left: 5px;
+  font-size: 10px;
+  line-height: 12px;
+  border-radius: 5px;
+  width: 45px;
+  background-color: cornflowerblue;
+}
+.idx{
+  margin-left: 5px;
+}
